@@ -126,7 +126,7 @@ Notes
 Connect to Ulacoin
 -----
 
-* Use multichaind ASN@Ulacoin.com:9999 -daemon
+* Use multichaind ULC@Ulacoin.com:9999 -daemon
 
 
 
